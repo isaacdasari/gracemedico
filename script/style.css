@@ -45,7 +45,7 @@ nav{
 
 .head::before{
     content: "";
-      background-image: url(/assets/ig.jpg);background-size: cover;background-position: center;
+      background-image: url(assets/ig.jpg);background-size: cover;background-position: center;
       background-size: cover;
       position: absolute;
       top: 0px;
