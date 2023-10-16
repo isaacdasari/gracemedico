@@ -1,0 +1,74 @@
+@media (max-width: 800px){
+    .nav-links{display: none;}
+    .head{
+        width: 100%;display: flex;flex-direction: column;height: 110vh;
+    }
+    .main{
+        flex: 50%;margin: 20px;padding: 0;
+    }
+    .ot-img{
+        flex: 50%;margin: 20px;padding: 0;
+    }
+    .title{
+        font-family: Rozha One;font-size: 10vh;line-height: 0;color: #032e1e;
+    }
+    .title-1{
+        font-family: Rozha One;font-size: 5vh;margin-top: -5vh;color: #032e1e;
+    }
+    .title-2{
+        font-family: Saira ;font-size: 3vh;margin-top: -5vh;letter-spacing: 5px;color: #032e1e;
+    }
+    .ot-i{
+        width: auto;height: 80vh;filter: drop-shadow(30px 10px 80px #01010ab2);margin-left: -50px;margin-top: -100px;
+    }
+    .pro-img{
+        width: 50vw;height: 10vh;
+    }
+    .discrip{
+        background-color:#F6FDC3;border: 1px solid rgb(255, 255, 255);display: flex;flex-direction: column;
+    }
+    .text{
+        line-height: 1.5;
+    }
+    .wrk-top{
+        
+        padding: 10px;display: flex;flex-direction: column;
+    }
+    .right-img-i{
+        width: 50vw;height: 60vh;padding: 10px;
+    }
+    .wrk-bottom{
+        
+        padding: 10px;display: flex;flex-direction: column;
+    }
+    .btm{
+        display: block;color: aqua;
+    }
+    .owner-container{
+        display: flex;flex-direction: column;
+    }
+    .owner-right{
+        flex: 50%;display: flex;justify-content: center;align-items: center;
+    }.dana-text{
+        font-family: Rozha One ;font-size: x-large;margin: 20px 0px 0px 0px;color: #012146;text-align: center;
+    }
+    .sub-dana{
+        text-align: center;margin: 0px 0em 20px 0px;
+    }
+    .formright{
+        flex: 50%;padding: 20px 0rem 20px 0rem;
+    }
+}
+
+
+
+@media (min-width: 800px) {
+
+    .mobile-nav{
+        display: none;
+       }
+      #fa{
+          display: none;
+      }
+  
+  }
